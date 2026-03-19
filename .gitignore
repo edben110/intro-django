@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos de entorno
+.env
+
+# Archivos de logs
+*.log
+
+# Base de datos SQLite (opcional)
+db.sqlite3
+
+# Archivos estáticos generados (Django)
+staticfiles/
+
+# Migraciones compiladas
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
